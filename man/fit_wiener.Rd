@@ -72,11 +72,9 @@ A named numeric vector containing the estimated model parameters:
 library(mixediffusion)
 data(datasim01)
 plot_paths(df = datasim01)
-\dontrun{
 fit <- fit_wiener(df = datasim01, mu = "at^1",
-                  verbose = FALSE, max_iter = 20)
+                  verbose = FALSE, max_iter = 1)
 fit
-}
 
 # mu(ak,t) = ak*sin(pi*t)
 data(datasim02)
@@ -87,6 +85,6 @@ mu_dlt_new <- function(ak,ti,ti_1){
 }
 
 fit <- fit_wiener(df = datasim02, mu_dlt = mu_dlt_new,
-                  verbose = FALSE, max_iter = 2)
+                  verbose = FALSE, max_iter = 1)
 fit
 }

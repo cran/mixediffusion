@@ -1,6 +1,6 @@
-8792962c4886ecbd15fe14f96fdba676 *DESCRIPTION
+aa4112c2d3b2e2757fbcbfcb2ead2e79 *DESCRIPTION
 8b9cbb0f8ec2f76bc4429277af115dd8 *NAMESPACE
-cc4fbad49141f6f8490361f0cf7b03eb *R/EM_wiener.R
+eac12214f641402d0c0cb9cfcbc19368 *R/EM_wiener.R
 9ad35b7128b757396763df5b89208ab9 *R/Mu_conds.R
 0ac63d49b72b0d3a672992ed63eb7cbc *R/Mu_dlts.R
 13f17026284e186d23d3a5a62dc3a4a8 *R/Q_lambda.R
@@ -20,7 +20,7 @@ c96236d3fdc8a754e1bf373fbe0189a1 *data/datasim03.rda
 2eff761fab6d00f7ddf6468146135bf0 *man/datasim01.Rd
 f1875175669e98194c119e396cdfcc24 *man/datasim02.Rd
 e0f9061e91fd7a0e42b4c0021ed7b9aa *man/datasim03.Rd
-062012da42dbb18abc9108e3e5073534 *man/fit_ou.Rd
-733009b45064d1c53d9f530442ee6331 *man/fit_wiener.Rd
+83032bca9286e342ab8b22ef6081dcc9 *man/fit_ou.Rd
+2947dfef0b555c40e1821c5a926c9bb4 *man/fit_wiener.Rd
 4c2b7eb2abd0100e1dbf316a11cce5ec *man/mixeddiffusion-internal.Rd
 50f88577d2534696e3f26fddf4e39f76 *man/plot_paths.Rd

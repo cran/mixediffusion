@@ -87,7 +87,7 @@ library(mixediffusion)
 data(datasim03)
 plot_paths(df = datasim03)
 fit <- fit_ou(df = datasim03, mu = "at^1",
-              verbose = FALSE, max_iter = 2)
+              verbose = FALSE, max_iter = 1)
 fit
 }
 
